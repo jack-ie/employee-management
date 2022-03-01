@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS employeetracker_DB;
-CREATE database tracker_DB;
+CREATE database employeetracker_DB;
 
 USE employeetracker_DB;
 
